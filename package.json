@@ -1,0 +1,18 @@
+{
+  "name": "fup-tuple-consistent-type",
+  "version": "1.0.0",
+  "description": "tuple map helper",
+  "main": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasx10/fup-tuple-consistent-type.git"
+  },
+  "keywords": [
+    "tuple",
+    "type",
+    "maptype"
+  ],
+  "author": "Yevhenii Kleshchev <dasx10@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/dasx10/fup-tuple-consistent-type#readme"
+}
